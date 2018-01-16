@@ -1,5 +1,5 @@
 # bioinf_sparc
-A re-implementation of the Sparc algorithm.
+A re-implementation of the [Sparc](https://peerj.com/articles/2016.pdf) algorithm.
 
 To compile:
 g++ -std=c++11 -o Sparc Sparc.cpp
